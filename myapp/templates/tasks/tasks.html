@@ -1,0 +1,54 @@
+{% extends '../base.html' %} {% block content %}
+
+<h4>Tareas</h4>
+<div>
+  {% if tasks %}
+    <table>
+      <thead>
+        <tr>
+          <th>⬇️</th>
+          <th>Título</th>
+          <th>Proyecto</th>
+          <th colspan="2">Acciones</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for task in tasks %}
+          {% if not task.deleted %}
+          <tr>
+            <td>
+              {% if not task.done %}
+              <span aria-label="Tarea no completada">❓</span>
+              {% else %}
+              <span aria-label="Tarea completada">✅</span>
+              {% endif %}
+            </td>
+            <!-- Información de la tarea -->
+            <td>{{ task.title }}</td>
+            <td>{{ task.project.id }} - {{ task.project.name }}</td>
+            <!-- Columna para marcar como hecho -->
+            <td>
+              {% if not task.done %}
+              <button type="button" data-task-id="{{ task.id }}" class="mark-done-btn" aria-label="Marcar tarea como hecha">
+                hecho 🗒️
+              </button>
+              {% else %}
+              <span></span> <!-- Placeholder si ya está hecha -->
+              {% endif %}
+            </td>
+            <!-- Columna para eliminar -->
+            <td>
+              <button type="button" data-task-id="{{ task.id }}" class="delete-task" aria-label="Eliminar tarea">
+                🚮
+              </button>
+            </td>
+          </tr>
+          {% endif %}
+        {% endfor %}
+      </tbody>
+    </table>
+  {% else %}
+    <p>No hay tareas aún</p>
+  {% endif %}
+</div>
+{% endblock %}

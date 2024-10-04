@@ -1,0 +1,14 @@
+{% extends '../base.html' %}
+
+{% block content %}
+<h4>Crear pryecto</h4>
+
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button>
+        Guardar
+    </button>
+</form>
+
+{% endblock %}

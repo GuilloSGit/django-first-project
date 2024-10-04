@@ -1,0 +1,20 @@
+{% extends '../base.html' %}
+
+{% block content %}
+
+<div>
+  <h4>Tareas del proyecto: {{ project }}</h4>
+</div>
+
+<div>
+  <ul>
+    {% if tasks %}
+      {% for task in tasks %}
+      <li>{{ task.title }}</li>
+      {% endfor %}
+    {% else %}
+      <li>Sin tareas para este proyecto</li>
+    {% endif %}
+  </ul>
+</div>
+{% endblock %}

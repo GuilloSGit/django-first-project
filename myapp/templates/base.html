@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <title>Proyectos y tareas</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static '/styles/style.css' %}" />
+    <script src="{% static '/js/scripts.js' %}"></script>
+  </head>
+  <body>
+    <div class="body-container">
+      <header>
+        <nav aria-label="Main Navigation" class="navbar">
+          <div class="spread">
+            <div>
+              <img
+                class="ping"
+                src="{% static 'territorios.png' %}"
+                alt="Un territorio con flechas"
+              />
+            </div>
+            <div class="navbar">
+              <ul>
+                <li>
+                  <a href="/">Inicio</a>
+                </li>
+                <li>
+                  <a title="Ver proyectos" href="{% url 'projects' %}"
+                    >Proyectos</a
+                  >
+                </li>
+                <li>
+                  <a title="Ver tareas" href="{% url 'tasks' %}">Tareas</a>
+                </li>
+                <li>
+                  <a
+                    title="Crear un nuevo proyecto"
+                    href="{% url 'create_project' %}"
+                    >Crear proyecto</a
+                  >
+                </li>
+                <li>
+                  <a
+                    title="Crear una nueva tarea"
+                    href="{% url 'create_task' %}"
+                    >Crear tarea</a
+                  >
+                </li>
+                <li>
+                  <a title="Acerca de esta aplicación" href="{% url 'about' %}"
+                    >Sobre la app</a
+                  >
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </header>
+
+      <main class="container">
+        <div class="main-content">
+          {% block content %}
+          <!-- Contenido que varía entre los templates -->
+          {% endblock %}
+        </div>
+      </main>
+    </div>
+  </body>
+</html>
+
