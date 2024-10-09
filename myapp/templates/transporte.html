@@ -1,0 +1,17 @@
+{% extends 'base.html' %} 
+{% load static %} 
+{% block content %}
+<ul class="item-ul">
+  {% for key, lugar in transporte.items %}
+  <li class="item-li">
+    <div class="lugar-info">
+        <h3 class="item-name">{{ lugar.Nombre }}</h3>
+        <a class="item-phone" href="{{ lugar.llamada }}">Llamar: {{ lugar.Teléfono }}</a>
+        <br>
+    </div>
+
+  </li>
+  <hr />
+  {% endfor %}
+</ul>
+{% endblock %}

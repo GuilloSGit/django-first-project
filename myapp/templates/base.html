@@ -3,58 +3,62 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    
-    <title>Proyectos y tareas</title>
     {% load static %}
+    <link
+      rel="icon"
+      href="{% static '/img/Estadios.svg' %}"
+      type="image/svg+xml"
+    />
+    <title>
+      Asamblea Regional “¡Prediquemos las buenas noticias!” - San Juan.
+      Argentina
+    </title>
     <link rel="stylesheet" href="{% static '/styles/style.css' %}" />
     <script src="{% static '/js/scripts.js' %}"></script>
+    <link
+      rel="stylesheet"
+      href="https://site-assets.fontawesome.com/releases/v6.6.0/css/all.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
     <div class="body-container">
       <header>
+        <!-- Web view -->
         <nav aria-label="Main Navigation" class="navbar">
           <div class="spread">
-            <div>
-              <img
-                class="ping"
-                src="{% static 'territorios.png' %}"
-                alt="Un territorio con flechas"
-              />
-            </div>
-            <div class="navbar">
+            <div class="menu-nav-web">
               <ul>
                 <li>
-                  <a href="/">Inicio</a>
+                  <a title="Info sobre la asamblea" href="/">
+                    <i class="fa-light icon-self fa-people-group"></i>
+                    <span class="text-icon">Inicio</span>
+                  </a>
                 </li>
+                {% for key, item in menu_items.items %}
                 <li>
-                  <a title="Ver proyectos" href="{% url 'projects' %}"
-                    >Proyectos</a
-                  >
+                    <a title="{{ item.title }}" href="{% url item.url %}">
+                        {{ item.icon|safe }}
+                        <span class="text-icon">{{ item.name }}</span>
+                    </a>
                 </li>
-                <li>
-                  <a title="Ver tareas" href="{% url 'tasks' %}">Tareas</a>
-                </li>
-                <li>
-                  <a
-                    title="Crear un nuevo proyecto"
-                    href="{% url 'create_project' %}"
-                    >Crear proyecto</a
-                  >
-                </li>
-                <li>
-                  <a
-                    title="Crear una nueva tarea"
-                    href="{% url 'create_task' %}"
-                    >Crear tarea</a
-                  >
-                </li>
-                <li>
-                  <a title="Acerca de esta aplicación" href="{% url 'about' %}"
-                    >Sobre la app</a
-                  >
-                </li>
+                {% endfor %}
               </ul>
             </div>
+          </div>
+        </nav>
+        <!-- Mobile view -->
+        <nav class="header-image-mobile">
+          <div class="mobile-nav-container">
+            <img
+              alt=""
+              src="{% static '/img/Estadios.svg' %}"
+              class="icon-mobile"
+            />
+            <h5>“¡Prediquemos las buenas noticias!”</h5>
           </div>
         </nav>
       </header>
@@ -69,4 +73,3 @@
     </div>
   </body>
 </html>
-

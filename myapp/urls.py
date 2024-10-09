@@ -4,8 +4,15 @@ from . import views
 
 urlpatterns = [
     path('', views.index, name='index'),
+    path('hoteles', views.hoteles, name='hoteles'),
+    path('comidas', views.comidas, name='comidas'),
+    path('comercios', views.comercios, name='comercios'),
+    path('hospitales', views.hospitales, name='hospitales'),
+    path('transporte', views.transporte, name='transporte'),
+    path('bancos', views.bancos, name='bancos'),
+    path('emergencias', views.emergencias, name='emergencias'),
+    path('farmacias', views.farmacias, name='farmacias'),
     path('about/', views.about, name='about'),
-    path('hello/<str:username>', views.hello, name='welcome'),
     path('projects/', views.projects, name='projects'),
     path('tasks/', views.tasks, name='tasks'),
     path('tasksByProjNum/<int:number>', views.tasksByProjNum, name='tasksByProjNum'),

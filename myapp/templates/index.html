@@ -1,15 +1,59 @@
-{% extends 'base.html' %}
+{% extends 'base.html' %} {% load static %} {% block content %}
 
-{% block content %}
+<h3>
+  Asamblea Regional del 2024 <br />
+  “¡Prediquemos las buenas noticias!”
+</h3>
 
-<h4>Bienvenidos a la App de Django</h4>
-<h5>{{ title }}</h5>
-<p>
-  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis, eius vero.
-  Exercitationem rerum id provident repellat officiis earum tenetur aspernatur
-  nam consequatur ullam. Asperiores ipsa beatae a optio harum totam placeat
-  magni! Voluptatem amet, consequatur, tenetur aliquid explicabo qui et incidunt
-  ipsa ipsam aut at dolorum accusantium! Alias, saepe aliquid!
-</p>
+<div class="day-section">
+  <img
+    src="{% static '/img/imagen-viernes.jpg' %}"
+    alt="Imágenes de los puntos destacados del programa del viernes: 1. Dentro del templo, un ángel habla con Zacarías, que está atemorizado. 2. La joven virgen María con cara de asombro. 3. José y María caminan con un burrito. María lleva en brazos a Jesús."
+  />
+  <div class="day-content">
+    <h4>Viernes</h4>
+    <p>
+      El tema del programa del viernes es “Buenas noticias que le traerán una
+      gran alegría a todo el pueblo” y se basa en <strong>Lucas 2:10</strong>
+    </p>
+  </div>
+</div>
+<hr />
+<div class="day-section">
+  <img
+    src="{% static '/img/imagen-sabado.jpg' %}"
+    alt="Imágenes de los puntos destacados del programa del sábado: 1. José y María con Jesús recién nacido. 2. El rey Herodes. 3. Dos parejas de Testigos en la predicación."
+  />
+  <div class="day-content">
+    <h4>Sábado</h4>
+    <p>
+      El tema del programa del sábado es “Proclamen día tras día las buenas
+      noticias de su salvación” y se basa en <strong>Salmo 96:2</strong>
+    </p>
+  </div>
+</div>
+<hr />
+<div class="day-section">
+  <img
+    src="{% static '/img/imagen-domingo.jpg' %}"
+    alt="Imágenes de los puntos destacados del programa del domingo: 1. Zacarías y Elisabet. 2. José con Jesús de niño en su taller de carpintería. 3. Jesús mira hacia abajo desde el cielo."
+  />
+  <div class="day-content">
+    <h4>Domingo</h4>
+    <p>
+      El tema del programa del domingo es “Y entonces vendrá el fin” y se basa
+      en <strong>Mateo 24:14</strong>
+    </p>
+  </div>
+</div>
+<hr />
+
+<div class="event-section">
+  <p>
+    <strong>Fecha:</strong> Viernes 18, Sábado 19 y Domingo 20 de octubre<br />
+    <strong>Horarios:</strong> comienza a las 9:20 AM cada día <br />
+    <strong>Ubicación:</strong> Urquiza Norte 119
+  </p>
+</div>
 
 {% endblock %}

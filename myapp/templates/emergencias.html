@@ -1,0 +1,18 @@
+{% extends 'base.html' %} 
+{% load static %} 
+{% block content %}
+<ul class="item-ul">
+  {% for key, lugar in emergencias.items %}
+  <li class="item-li">
+    <div class="lugar-info">
+        <h3 class="item-name"><i class="fa-light fa-phone"></i> &nbsp; {{ lugar.Nombre }}</h3>
+        <span class="item-address">Dirección: {{ lugar.Dirección }}</span>
+        <br>
+        <span class="item-phone">Teléfono: <a class="item-phone" href="{{ lugar.llamada }}">{{ lugar.Teléfono }}</a></span>
+    </div>
+    {{ lugar.gps|safe }}
+  </li>
+  <hr />
+  {% endfor %}
+</ul>
+{% endblock %}

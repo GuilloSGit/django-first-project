@@ -1,0 +1,420 @@
+{
+  "hoteles": {
+    "url": "hoteles",
+    "urlName": "Hoteles",
+    "icono": "<i class='fa-light icon-self fa-hotel'></i>",
+    "title": "Información de Hoteles y alojamiento en la zona",
+    "01": {
+      "Nombre": "Hotel San Francisco",
+      "Dirección": "Av. España Sur 284",
+      "Teléfono": "2644223760",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.8317326735623!2d-68.54000982503774!3d-31.52204832487407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167d56e013c1d%3A0x5633b0d176b85cd9!2sHotel%20San%20Francisco!5e0!3m2!1ses!2sar!4v1728499410486!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "02": {
+      "Nombre": "Hotel El Refugio",
+      "Dirección": "Ramón y Cajal Nte. 97, San Juan",
+      "Teléfono": "2644477806",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.583932776578!2d-68.54167482503734!3d-31.526891824871113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167da72fbd50d%3A0x94b6cd69c8ef252f!2sHotel%20El%20Refugio!5e0!3m2!1ses!2sar!4v1728499410486!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "03": {
+      "Nombre": "Capital Hostel",
+      "Dirección": "Ramón y Cajal Nte. 302, J5400 DVH, San Juan",
+      "Teléfono": "2644210310",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.6929483536066!2d-68.54080582503744!3d-31.524049324872042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167d45be6e94f%3A0x6cdde2359f92c5b3!2sCapital%20Hostel!5e0!3m2!1ses!2sar!4v1728499410486!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "04": {
+      "Nombre": "Hotel de Barrio Ciudad Naranjo",
+      "Dirección": "Balcarce 55 OESTE, Rivadavia, San Juan",
+      "Teléfono": "2644827408",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.111971530235!2d-68.57147482503697!3d-31.537939824867416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816a80ac013f0f%3A0x45a2179fba35d0b6!2sHotel%20Ciudad%20Naranjo!5e0!3m2!1ses!2sar!4v1728499410486!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "05": {
+      "Nombre": "Terraza del Sol Apart",
+      "Dirección": "Santiago del Estero Sur y Fray Mamerto Esquiú, San Juan",
+      "Teléfono": "2644275821",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.2858788620353!2d-68.5280348250373!3d-31.533906324869562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816a6b52c1a263%3A0x2a6eebf14e93e673!2sTerraza%20del%20Sol%20Apart%20Hotel!5e0!3m2!1ses!2sar!4v1728499410486!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "06": {
+      "Nombre": "Hotel Nuevo Suizo",
+      "Dirección": "Salta entre Mitre e Ignacio de la Roza, Capital",
+      "Teléfono": "2644210067",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.951264933387!2d-68.52434582503774!3d-31.51935332487459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816c17c35016e9%3A0x91e78e3d4d605f73!2sNuevo%20Suizo!5e0!3m2!1ses!2sar!4v1728499410486!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "07": {
+      "Nombre": "Hotel Estrella Andina",
+      "Dirección": "Av. España Sur 422, San Juan",
+      "Teléfono": "2644201517",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.768011570664!2d-68.54024782503758!3d-31.523607224871327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167d49f8ebfdb%3A0xe3f18433d74983b0!2sHotel%20Estrella%20Andina!5e0!3m2!1ses!2sar!4v1728499410486!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "08": {
+      "Nombre": "Hotel Cerro Blanco",
+      "Dirección": "Lateral de Circunvalación 195 (N). Desamparados",
+      "Teléfono": "2644262580",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.476353785655!2d-68.54864782503745!3d-31.52945842487026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167d073f49ff5%3A0x33be7c70e0c3b82f!2sHotel%20Cerro%20Blanco!5e0!3m2!1ses!2sar!4v1728499410486!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "09": {
+      "Nombre": "Alhambra Inn Hotel",
+      "Dirección": "Gral Mariano Acha Sur 180, San Juan",
+      "Teléfono": "2644214780",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.876195892588!2d-68.53411482503767!3d-31.520989224874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c54187d0e9%3A0x50e4d734bce44514!2sHotel%20Alhambra%20Inn!5e0!3m2!1ses!2sar!4v1728499410486!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    }
+  },
+
+  "comercios": {
+    "url": "comercios",
+    "urlName": "Comercios",
+    "icono": "<i class='fa-light icon-self fa-cart-shopping'></i>",
+    "title": "Información de comercios y tiendas en la zona",
+    "01": {
+      "Nombre": "Patio Alvear Shopping",
+      "Dirección": "Av. Libertador Gral. San Martín 1826",
+      "Teléfono": "2644309000",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.616183754619!2d-68.5432582250373!3d-31.523174624870707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167a76552b3c9%3A0x5eb8f934f176b61a!2sPatio%20Alvear%20Shopping!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "02": {
+      "Nombre": "Hipermercado LIBERTAD",
+      "Dirección": "Av. Circunvalación, Scalabrini Ortiz Nte. &, San Juan",
+      "Teléfono": "",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.440564536322!2d-68.54110772503745!3d-31.529677424870367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c8b3960071%3A0x1a9dcf5769f3c87a!2sHipermercado%20Libertad!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "03": {
+      "Nombre": "Alto Del Bono Shopping",
+      "Dirección": "Av. José Ignacio de la Roza Oeste 2100, San Juan",
+      "Teléfono": "2644263431",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.772776897068!2d-68.54407482503759!3d-31.523751924871336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c82b8db3f5%3A0x8c10deca33eb0d56!2sAlto%20Del%20Bono%20Shopping!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "04": {
+      "Nombre": "Espacio San Juan Shopping Center",
+      "Dirección": "Av. José Ignacio de la Roza Oeste 806, J5400 San Juan",
+      "Teléfono": "2644238611",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.6782548808166!2d-68.53879042503751!3d-31.525557424872012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167d4c50e62e7%3A0xc294f0af373645e6!2sEspacio%20San%20Juan%20Shopping%20Center!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "05": {
+      "Nombre": "Patio San Ignacio",
+      "Dirección": "Av. Ignacio de la Roza y Hermogenes Ruiz",
+      "Teléfono": "",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.6795455149565!2d-68.55291952503747!3d-31.525552324871998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167d4cb5b7d7%3A0xb8cb2a6f7ad3f045!2sPatio%20San%20Ignacio!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "06": {
+      "Nombre": "Super Mercado Myriam",
+      "Dirección": "Av. Libertador Gral. San Martín, San Juan",
+      "Teléfono": "",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.663860681611!2d-68.54384282503753!3d-31.52679282487208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c79bb17615%3A0x7b7c54ed56b45c85!2sSupermercado%20Myriam!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "07": {
+      "Nombre": "Supermercado VEA",
+      "Dirección": "Av. Libertador Gral. San Martín 2359, San Juan",
+      "Teléfono": "08109999832",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.558818283166!2d-68.53795342503733!3d-31.529182424870204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c7d2a12ec7%3A0x77e82d2959de022e!2sSupermercado%20VEA!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "08": {
+      "Nombre": "Mercado San Jose",
+      "Dirección": "J5400ALJ, San Jose Oeste 1742, J5400ALJ San Juan",
+      "Teléfono": "2644235372",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.6280998021955!2d-68.54549882503739!3d-31.52586242487156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c62e4b1f75%3A0x74ab10a0ee9e2eb1!2sMercado%20San%20Jose!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "09": {
+      "Nombre": "Supermercado VEA",
+      "Dirección": "Av. José Ignacio de la Roza Oeste 1986, J5400 San Juan",
+      "Teléfono": "08109999832",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.6221853942364!2d-68.53477622503732!3d-31.526118424871474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167d61a587835%3A0x6e55cf4c2da5a022!2sSupermercado%20VEA!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    }
+  },
+
+  "hospitales": {
+    "url": "hospitales",
+    "urlName": "Hospitales",
+    "icono": "<i class='fa-light icon-self fa-hospital'></i>",
+    "title": "Información de hospitales en la zona",
+    "01": {
+      "Nombre": "Clínica Guadalupe",
+      "Dirección": "Matías Zavalla Norte 402",
+      "Teléfono": "2644262090",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.258930454972!2d-68.53688842503735!3d-31.531148424872133!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c2d62be4f5%3A0x1abcbf35e6a3da2d!2sCl%C3%ADnica%20Guadalupe!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "02": {
+      "Nombre": "Clínica Mercedario (traumatología de avanzada) 24hs",
+      "Dirección": "España 503(N)",
+      "Teléfono": "2644276003",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.6243245377044!2d-68.5432563250375!3d-31.52890982487012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c16a4e4c1%3A0x7c3ae10a3f04f499!2sCl%C3%ADnica%20Mercedario!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "03": {
+      "Nombre": "Sanatorio Argentino (clínica gral) 24hs",
+      "Dirección": "San Luis 432(o)",
+      "Teléfono": "2644303030",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.6231511934127!2d-68.5394138250374!3d-31.528888624870046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c4ec3d4e3f%3A0x5fc4be29f3528c61!2sSanatorio%20Argentino!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "04": {
+      "Nombre": "Hospital Rawson (clínica gral) urgencias",
+      "Dirección": "Av Rawson 494(s)-Gral Paz y Av Rawson",
+      "Teléfono": "2644222272",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.513623108956!2d-68.5302325250375!3d-31.53241582487205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c509030ff7%3A0xa374b37b6eec88a4!2sHospital%20Rawson!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "05": {
+      "Nombre": "Hospital Privado Nariz - Garganta y Oídos S.R.L.",
+      "Dirección": "Domingo Faustino Sarmiento Sur 328, San Juan",
+      "Teléfono": "264417-5280",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.5661671653685!2d-68.5302798250375!3d-31.529453924870178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c30aab133b%3A0xd0e49075f3ab0b1f!2sHospital%20Privado%20Nariz%20-%20Garganta%20y%20O%C3%ADdos!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "06": {
+      "Nombre": "Clínica Santa Lucía (ojos)",
+      "Dirección": "831 J5402GUQ, Mendoza Sur 831, J5402GUQ San Juan",
+      "Teléfono": "264421-1827",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.589899746348!2d-68.53176782503754!3d-31.52821242487006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c30100465f%3A0x69af4645c59ac7b6!2sCl%C3%ADnica%20Santa%20Luc%C3%ADa!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "07": {
+      "Nombre": "Sanatorio Argentino Consultorios Externos",
+      "Dirección": "Sta Fe Este 263, J5402AAE San Juan",
+      "Teléfono": "264430-3050",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.2542605577324!2d-68.5304745250373!3d-31.531162424872103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c3333127ab%3A0xf1685583e0d38e04!2sSanatorio%20Argentino!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "08": {
+      "Nombre": "Clínica Santa María",
+      "Dirección": "Tucumán Norte 784, J5400 San Juan",
+      "Teléfono": "2644202040",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.3084250382934!2d-68.53267242503745!3d-31.530855824872027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c30c2b7f93%3A0xd4b8a3f329c5d3e7!2sCl%C3%ADnica%20Santa%20Mar%C3%ADa!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "09": {
+      "Nombre": "Cimyn Hospital de Maternidad",
+      "Dirección": "Catamarca Sur 417, J5402GSI San Juan",
+      "Teléfono": "2644309100",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.379671341985!2d-68.5271716250374!3d-31.5273109248701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c537a61df3%3A0x818f7b305871d74b!2sCimyn%20Hospital%20de%20Maternidad!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "10": {
+      "Nombre": "Hospital Público Dr. Marcial V. Quiroga",
+      "Dirección": "Av. Libertador Gral. San Martín 5401, Rivadavia, San Juan",
+      "Teléfono": "264433-0880",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.641940720513!2d-68.54218862503742!3d-31.525719824871557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c6b9f5efc5%3A0x30480bc71bb1483a!2sHospital%20P%C3%BAblico%20Dr.%20Marcial%20V.%20Quiroga!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    }
+  },
+
+  "comidas": {
+    "url": "comidas",
+    "urlName": "Restaurant",
+    "icono": "<i class='fa-light icon-self fa-utensils'></i>",
+    "title": "Información de restaurantes y bares en la zona",
+    "01": {
+      "Nombre": "El Palacio De La Milanesa",
+      "Dirección": "Av. Libertador Gral. San Martin Oeste y Carlos M. de Alvear Sur 1730",
+      "Teléfono": "2644234254",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.8764548127257!2d-68.5340252!3d-31.5213451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816bf2eb7a5e8f%3A0x2a3dfdb1a2b093b!2sEl%20Palacio%20de%20la%20Milanesa!5e0!3m2!1ses!2sar!4v1728499698424!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "02": {
+      "Nombre": "Soychu (vegetariana)",
+      "Dirección": "Av Ignacio de la Roza 223 (Oeste)",
+      "Teléfono": "2644221939",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.756720193359!2d-68.537365!3d-31.5239121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816bf17b72bf45%3A0x7d52f403e441b09c!2sSoychu!5e0!3m2!1ses!2sar!4v1728499735513!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+      "horario": "viernes y sábado de 8 a 23hs, domingo 8 a 15hs"
+    },
+    "03": {
+      "Nombre": "Pateo Alvear",
+      "Dirección": "Av Libertador 1826 (Oeste)",
+      "Teléfono": "2644309000",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.784089850381!2d-68.5377944!3d-31.5234208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816bf1941fc8e1%3A0x2f6f4ec3e155e84d!2sPateo%20Alvear!5e0!3m2!1ses!2sar!4v1728499772822!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+      "horario": "10 a 22hs"
+    },
+    "04": {
+      "Nombre": "Universo Gluten Free",
+      "Dirección": "Av. Paula Albarracín de Sarmiento 462 Sur, San Juan",
+      "Teléfono": "2645856834",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.877284615469!2d-68.5269982!3d-31.5213271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816a8158c084ab%3A0x7de06f0e7bb003d6!2sUniverso%20Gluten%20Free!5e0!3m2!1ses!2sar!4v1728499810271!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "05": {
+      "Nombre": "Mostaza Libertador",
+      "Dirección": "Av. Libertador Gral. San Martín 1710",
+      "Teléfono": "26456220764",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.822967637682!2d-68.536075!3d-31.5220769!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816bf1d9473dfd%3A0x57b23073bb1b6e77!2sMostaza%20San%20Juan!5e0!3m2!1ses!2sar!4v1728499837125!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "06": {
+      "Nombre": "Ameghino Almacén y Comidas",
+      "Dirección": "Florentino Ameghino Nte. 126 sur",
+      "Teléfono": "2645248407",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.720859351022!2d-68.534098!3d-31.5233377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816bf0baedae8d%3A0x3a3447875c91af9d!2sFlorentino%20Ameghino%20126!5e0!3m2!1ses!2sar!4v1728499869351!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "07": {
+      "Nombre": "Rotisería Vegy Sue Yuen",
+      "Dirección": "25 de Mayo Oeste 1412, J5400 San Juan",
+      "Teléfono": "-",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.792654165451!2d-68.5273091!3d-31.5232827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816a81f1f1c2c3%3A0x4cf0dfdb2f4b1ac2!2s25%20de%20Mayo%201412!5e0!3m2!1ses!2sar!4v1728499892417!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "08": {
+      "Nombre": "La Vene",
+      "Dirección": "Esquina San Luis y Urquiza (frente al estadio)",
+      "Teléfono": "2644572435",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.9119458724846!2d-68.5338236!3d-31.5207118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816a806bd1eb63%3A0x558787ad2d6ab5aa!2sSan%20Luis%20%26%20Urquiza!5e0!3m2!1ses!2sar!4v1728499917465!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "09": {
+      "Nombre": "Tazio Resto",
+      "Dirección": "Florentino Ameghino Sur 102, San Juan",
+      "Teléfono": "2644888666",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.8439965852074!2d-68.5311225!3d-31.5217874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816a80920a3dd1%3A0x230c5c04a12d7a94!2sFlorentino%20Ameghino%20Sur%20102!5e0!3m2!1ses!2sar!4v1728499942413!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "10": {
+      "Nombre": "Central de Sabores",
+      "Dirección": "Urquiza Sur, Av. Ignacio de la Roza Oeste &",
+      "Teléfono": "2644172503",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.8701510860184!2d-68.5338077!3d-31.5215114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816a816fa56b87%3A0x4f5a98a23b8bff8c!2sCentral%20de%20Sabores!5e0!3m2!1ses!2sar!4v1728499968126!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    }
+  },
+
+  "transporte": {
+    "url": "transporte",
+    "urlName": "Transporte",
+    "icono": "<i class='fa-light icon-self fa-taxi'></i>",
+    "title": "Información de medios de transporte",
+    "01": {
+      "Nombre": "REMIS OESTE",
+      "Teléfono": "2644272222"
+    },
+    "02": {
+      "Nombre": "RAMPA REMIS",
+      "Teléfono": "2644341234"
+    },
+    "03": {
+      "Nombre": "REMIS SAN CAYETANO",
+      "Teléfono": "2644216980"
+    },
+    "04": {
+      "Nombre": "TAXI SAN JUAN",
+      "Teléfono": "2644217000"
+    },
+    "05": {
+      "Nombre": "DEL BONO REMIS",
+      "Teléfono": "2644210210"
+    }
+  },
+
+  "bancos": {
+    "url": "bancos",
+    "urlName": "Bancos",
+    "icono": "<i class='fa-light icon-self fa-money-bill'></i>",
+    "title": "Información de bancos y cajeros en la zona",
+    "02": {
+      "Nombre": "BANCO NACIÓN LINK",
+      "Dirección": "Esquina Av. Libertador San Martín y Urquiza",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3400.658628444889!2d-68.5450182!3d-31.533534600000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968140345696c5e1%3A0x49747a8125d1f5bb!2sBNA%20Link!5e0!3m2!1ses-419!2sar!4v1728499291708!5m2!1ses-419!2sar width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "03": {
+      "Nombre": "BANCO SAN JUAN",
+      "Dirección": "Las Heras Oeste 255, San Juan",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6801.366903029094!2d-68.5444522!3d-31.532853!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968141e737c3c74d%3A0xcaf70b3523b3c682!2sBanco%20San%20Juan!5e0!3m2!1ses-419!2sar!4v1728499333557!5m2!1ses-419!2sar width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "04": {
+      "Nombre": "BANCO SANTANDER RÍO BANELCO",
+      "Dirección": "Esquina Ignacio de la Roza Oeste y Domingo Faustino Sarmiento",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3400.5178023158387!2d-68.5286878!3d-31.537401199999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9681402893092479%3A0x8f4813bc72746ac6!2sSantander%20R%C3%ADo!5e0!3m2!1ses-419!2sar!4v1728499377676!5m2!1ses-419!2sar width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "05": {
+      "Nombre": "BANCO GALICIA BANELCO",
+      "Dirección": "Av. José Ignacio de la Roza Este 112",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3400.5226028821257!2d-68.52395609999999!3d-31.5372694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816a82a02f3e2d%3A0xde73630d17fcfb58!2sBanco%20Galicia!5e0!3m2!1ses-419!2sar!4v1728499410486!5m2!1ses-419!2sar width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "01": {
+      "Nombre": "BANCO SAN JUAN LINK",
+      "Dirección": "Av. Libertador Gral. San Martín 1826",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13602.874233752473!2d-68.551904!3d-31.531889!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9681404b2b66e961%3A0xa5a422c6a04ea036!2sBSJ%20Link!5e0!3m2!1ses-419!2sar!4v1728499625205!5m2!1ses-419!2sar' width='320px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    }
+  },
+
+  "farmacias": {
+    "url": "farmacias",
+    "urlName": "Farmacias",
+    "icono": "<i class='fa-light icon-self fa-notes-medical'></i>",
+    "title": "Información de farmacias en la zona",
+    "01": {
+      "Nombre": "Farmacia San Martín II (24 hs)",
+      "Dirección": "Av. Libertador Gral. San Martín 593",
+      "Teléfono": "2644215555",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.4872348513455!2d-68.53520002503763!3d-31.52652832487281!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c41e33b7bb%3A0x8e1f7c43373c2194!2sFarmacia%20San%20Mart%C3%ADn%20II!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "02": {
+      "Nombre": "Farmacia Cura Brochero",
+      "Dirección": "Ramón y Cajal Nte. 40",
+      "Teléfono": "2644277728",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.455450888776!2d-68.53458782503746!3d-31.52807012487312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c3a6f14b27%3A0x1e8e8371fbbd2cf7!2sFarmacia%20Cura%20Brochero!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "03": {
+      "Nombre": "Farmacia Matias",
+      "Dirección": "25 de Mayo 1606, San Juan",
+      "Teléfono": "2644264753",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.2936857077257!2d-68.53884872503756!3d-31.530760624871993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c31b2e92b3%3A0x7f78aa1f7bcf6ff7!2sFarmacia%20Matias!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "04": {
+      "Nombre": "Farmacia Santa Cecilia",
+      "Dirección": "Florentino Ameghino Sur, San Juan",
+      "Teléfono": "2644236031",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.4937403005285!2d-68.52844062503755!3d-31.52674782487278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c3b60cccb9%3A0xb2558b0c5d63e50d!2sFarmacia%20Santa%20Cecilia!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "05": {
+      "Nombre": "Farmacia Santa Gema",
+      "Dirección": "Urquiza Sur 299, San Juan",
+      "Teléfono": "2644216444",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.5113440290975!2d-68.52597002503756!3d-31.526224924872807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c3d10aa5b5%3A0x9f5b8d90d1d049cc!2sFarmacia%20Santa%20Gema!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "06": {
+      "Nombre": "Farmacia Universidad I",
+      "Dirección": "Av. José Ignacio de la Roza Oeste 1139, J5402DCL San Juan",
+      "Teléfono": "",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.491929144252!2d-68.53352072503764!3d-31.526614524872767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c422a2aa7b%3A0x6d23ac5b1b59a61f!2sFarmacia%20Universidad%20I!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "07": {
+      "Nombre": "Farmacia Parque",
+      "Dirección": "Av. José Ignacio de la Roza Oeste 850 oeste, San Juan",
+      "Teléfono": "2644273838",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.4615505820283!2d-68.52737102503764!3d-31.52806342487311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c39b3e501f%3A0x4a6a12c08e8f7cb4!2sFarmacia%20Parque!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "08": {
+      "Nombre": "Farmacia Sabin II",
+      "Dirección": "Av. José Ignacio de la Roza Oeste 1816 esquina Paula A. de Sarmiento, San Juan",
+      "Teléfono": "2644238790",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.4841477101544!2d-68.5248744250376!3d-31.52649602487279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c3b6d8c69%3A0xc9493647e6c8ee7e!2sFarmacia%20Sabin%20II!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "09": {
+      "Nombre": "Farmacia San Pantaleon II",
+      "Dirección": "Las Heras Sur y Francisco Laprida",
+      "Teléfono": "2644221818",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.5228485835866!2d-68.53738662503755!3d-31.525885424872687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c3d51fcf3%3A0x403ef6a4745f7c7d!2sFarmacia%20San%20Pantaleon%20II!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "10": {
+      "Nombre": "Farmacia Desamparados",
+      "Dirección": "Av. Libertador y Calle San Martín Oeste 2338",
+      "Teléfono": "2644261234",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.5483753730475!2d-68.52578862503756!3d-31.525217524872646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x968167c3d6c4b79%3A0xe001dfb4cf93b1e5!2sFarmacia%20Desamparados!5e0!3m2!1ses!2sar!4v1728500037587!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    }
+  },
+
+  "emergencias": {
+    "url": "emergencias",
+    "urlName": "Emergencias",
+    "icono": "<i class='fa-light icon-self fa-ambulance'></i>",
+    "title": "Información de emergencias en la zona",
+    "01": {
+      "Nombre": "911",
+      "Dirección": "Av. Libertador Gral. San Martín 800 Oeste, San Juan, Argentina",
+      "Teléfono": "911",
+      "gps": "",
+      "llamada": "tel:911"
+    },
+    "02": {
+      "Nombre": "Bomberos",
+      "Dirección": "Av. Libertador Gral. San Martín 800 Oeste, San Juan, Argentina",
+      "Teléfono": "+54 264 421-2244",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.731831337143!2d-68.5363982!3d-31.5232225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816bf0baedc07f%3A0x66f3ed6b6ddda595!2sBomberos%20de%20San%20Juan!5e0!3m2!1ses!2sar!4v1728499410486!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+      "llamada": "tel:+542644212244"
+    },
+    "03": {
+      "Nombre": "Policía",
+      "Dirección": "Comisaría 1°, Av. Libertador Gral. San Martín Oeste 750, San Juan, Argentina",
+      "Teléfono": "+54 264 422-4500",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.7293516350524!2d-68.537055!3d-31.5232677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816bf0baedc07f%3A0x58f738df83fddd32!2sComisaria%201ra%20-%20San%20Juan!5e0!3m2!1ses!2sar!4v1728499485320!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+      "llamada": "tel:+542644224500"
+    },
+    "04": {
+      "Nombre": "Dirección de la Mujer",
+      "Dirección": "Calle Rivadavia 726 Este, San Juan, Argentina",
+      "Teléfono": "+54 264 422-8275",
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.624086033867!2d-68.5264529!3d-31.5246116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816a82a5ef2c87%3A0x8f3fc588f99b4e17!2sDirecci%C3%B3n%20de%20la%20Mujer%20-%20San%20Juan!5e0!3m2!1ses!2sar!4v1728499549821!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+      "llamada": "tel:+542644228275"
+    }
+  }
+}
