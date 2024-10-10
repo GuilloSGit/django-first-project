@@ -45,6 +45,9 @@ def menu_navigation(request):
 def index(request):
     return render(request, 'index.html', {'menu_items': menu_navigation(request)})
 
+def referentes(request):
+    return render(request, 'referentes.html', {'menu_items': menu_navigation(request)})
+
 def hoteles(request):
     return render_data(request, 'hoteles', 'hoteles.html')
 

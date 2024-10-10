@@ -9,7 +9,9 @@
         <span class="item-address">Dirección: {{ lugar.Dirección }}</span><br>
         <span class="item-phone">Teléfono: <a class="item-phone" href="{{ lugar.llamada }}">{{ lugar.Teléfono }}</a></span>
     </div>
-    {{ lugar.gps|safe }}
+    <div class="map-container">
+        {{ lugar.gps|safe }}
+    </div>
   </li>
   <hr />
   {% endfor %}

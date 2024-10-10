@@ -312,7 +312,7 @@
     "01": {
       "Nombre": "BANCO SAN JUAN LINK",
       "Dirección": "Av. Libertador Gral. San Martín 1826",
-      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13602.874233752473!2d-68.551904!3d-31.531889!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9681404b2b66e961%3A0xa5a422c6a04ea036!2sBSJ%20Link!5e0!3m2!1ses-419!2sar!4v1728499625205!5m2!1ses-419!2sar' width='320px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+      "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13602.874233752473!2d-68.551904!3d-31.531889!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9681404b2b66e961%3A0xa5a422c6a04ea036!2sBSJ%20Link!5e0!3m2!1ses-419!2sar!4v1728499625205!5m2!1ses-419!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
     }
   },
 
@@ -400,21 +400,21 @@
       "Dirección": "Av. Libertador Gral. San Martín 800 Oeste, San Juan, Argentina",
       "Teléfono": "+54 264 421-2244",
       "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.731831337143!2d-68.5363982!3d-31.5232225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816bf0baedc07f%3A0x66f3ed6b6ddda595!2sBomberos%20de%20San%20Juan!5e0!3m2!1ses!2sar!4v1728499410486!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-      "llamada": "tel:+542644212244"
+      "llamada": "2644212244"
     },
     "03": {
       "Nombre": "Policía",
       "Dirección": "Comisaría 1°, Av. Libertador Gral. San Martín Oeste 750, San Juan, Argentina",
       "Teléfono": "+54 264 422-4500",
       "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.7293516350524!2d-68.537055!3d-31.5232677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816bf0baedc07f%3A0x58f738df83fddd32!2sComisaria%201ra%20-%20San%20Juan!5e0!3m2!1ses!2sar!4v1728499485320!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-      "llamada": "tel:+542644224500"
+      "llamada": "2644224500"
     },
     "04": {
       "Nombre": "Dirección de la Mujer",
       "Dirección": "Calle Rivadavia 726 Este, San Juan, Argentina",
       "Teléfono": "+54 264 422-8275",
       "gps": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.624086033867!2d-68.5264529!3d-31.5246116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96816a82a5ef2c87%3A0x8f3fc588f99b4e17!2sDirecci%C3%B3n%20de%20la%20Mujer%20-%20San%20Juan!5e0!3m2!1ses!2sar!4v1728499549821!5m2!1ses!2sar' width='200px' height='150px' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-      "llamada": "tel:+542644228275"
+      "llamada": "2644228275"
     }
   }
 }

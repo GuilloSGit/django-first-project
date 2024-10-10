@@ -46,6 +46,12 @@
                     </a>
                 </li>
                 {% endfor %}
+                <li>
+                  <a title="Info sobre la asamblea" href="referentes/">
+                    <i class="fa-light icon-self fa-address-book"></i>
+                    <span class="text-icon">Referentes</span>
+                  </a>
+                </li>
               </ul>
             </div>
           </div>
@@ -71,5 +77,42 @@
         </div>
       </main>
     </div>
+
+    <!-- Sandwich button to activate footer -->
+      <div class="sandwich-btn">
+        <i class="fa-solid fa-bars"></i>
+      </div>
+      <script src="{% static '/js/sandwich-btn.js' %}"></script>
+    </div>
+    
+    <!-- Footer -->
+    <footer>
+      <nav class="mobile-task-bar">
+        <div class="mobile-task-container">
+          <ul class="mobile-task-bar-ul">
+            <li class="mobile-task-bar-li">
+              <a title="Info sobre la asamblea" href="/">
+                <i class="fa-light icon-self fa-people-group"></i>
+                <span class="text-icon">Inicio</span>
+              </a>
+            </li>
+            {% for key, item in menu_items.items %}
+            <li>
+              <a title="{{ item.title }}" href="{% url item.url %}">
+                {{ item.icon|safe }}
+                <span class="text-icon">{{ item.name }}</span>
+              </a>
+            </li>
+            {% endfor %}
+            <li>
+              <a title="Info sobre la asamblea" href="referentes/">
+                <i class="fa-light icon-self fa-address-book"></i>
+                <span class="text-icon">Referentes</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </footer>
   </body>
 </html>

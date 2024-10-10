@@ -10,7 +10,9 @@
         <br>
         <a class="item-phone" href="{{ lugar.llamada }}">Llamar: {{ lugar.Teléfono }}</a>  <!-- Enlace de llamada -->
     </div>
-    {{ lugar.gps|safe }}
+    <div class="map-container">
+        {{ lugar.gps|safe }}
+    </div>
   </li>
   <hr />
   {% endfor %}
